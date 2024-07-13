@@ -1,1 +1,2 @@
-information
+information  Added new srtring
+Added new srtring
