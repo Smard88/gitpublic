@@ -1,4 +1,8 @@
 information  Added new srtring
 Added new srtring
 123
+<<<<<<< HEAD
 izmenen
+=======
+123
+>>>>>>> testmaster
